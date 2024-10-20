@@ -1,0 +1,8 @@
+requests
+pyfiglet
+qrcode[pil]
+whois
+phonenumbers
+#hashlib  # Built-in module, no need to include in requirements
+colorama
+gtts
